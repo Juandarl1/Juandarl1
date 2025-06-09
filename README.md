@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**Juandarl1/Juandarl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🚀 About Me
 This is the other face about me as a programmer, here you going to be able to see my personal projects and others.
 
